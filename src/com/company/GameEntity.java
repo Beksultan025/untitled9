@@ -3,7 +3,6 @@ package com.company;
 public class GameEntity {
     public int Health;
     public int Damage;
-    public String weapon;
 
     public void setHealth(int health) {
         Health = health;
